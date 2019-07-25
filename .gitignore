@@ -1,0 +1,4 @@
+# *.log
+*.csv
+*.zip
+var/log/cars.csv
